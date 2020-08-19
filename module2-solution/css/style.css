@@ -3,8 +3,8 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: helvetica;
-    font-size: 100%;
+    font-family: Calibri;
+    font-size: medium;
 }
 
 h1 {
@@ -12,6 +12,7 @@ h1 {
     color: #FF5733;
     margin: 100px 20px 50px 20px;
     font-size: 175%;
+    font-weight: bolder;
 }
 
 p {
@@ -20,7 +21,6 @@ p {
     right: 0;
     border: 1px solid black;
     text-align: center;
-    font-family: Helvetica;
     color: white;
     padding: 5px 10px 5px 10px;
     margin-bottom: 10px;
@@ -49,8 +49,10 @@ section {
     position: relative;
     background-color: #DAF7A6;
 }
-.container {
 
+.container {
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 /********** Large devices **********/
