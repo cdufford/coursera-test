@@ -1,4 +1,34 @@
 .navbar-brand {
-    font-size: 30px;
+    font-size: 50px;
     font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
+
+#nav-list a {
+    font-weight: bold;
+    font-size: 2em;
+    background: rgba(36, 108, 163, 0.46);
+}
+
+#nav-list a:hover {
+    background: rgba(94, 197, 215, 0.42);
+}
+
+#outer-text {
+    border: #2471a3 solid 2px;
+    background-color: #c4e3f3;
+}
+
+#inner-text {
+    margin: 0 20px 0 20px;
+    padding: 0px 10px 0px 10px;
+    font-size: 1.2em;
+}
+
+h1 {
+    color: #2b669a;
+    font-weight: bold;
+
+}
+
